@@ -1,0 +1,8 @@
+ML Project Implementation using Anaconda and Jupyter Notebook
+
+
+(base) C:\Users\amohammad1049>conda create -n carprediction python=3.12.0
+
+(base) C:\ML Project>activate carprediction
+
+(carprediction) C:\ML Project>jupyter notebook
